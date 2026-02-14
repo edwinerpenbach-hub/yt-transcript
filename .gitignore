@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+*.spec
+.idea/
+.claude/
+transcript.txt
+transcript_no_timestamps.txt
+transcript_sentences.txt
