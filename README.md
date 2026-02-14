@@ -27,7 +27,7 @@ python ui.py
 
 ### Run the pre-built exe
 
-Download `YouTubeTranscriptDownloader.exe` from the `dist/` folder and double-click it. No Python installation required.
+[Download the latest release](https://github.com/edwinerpenbach-hub/yt-transcript/releases/latest) and double-click `YouTubeTranscriptDownloader.exe`. No Python installation required.
 
 ## CLI Usage
 
