@@ -14,7 +14,7 @@ A desktop application that downloads transcripts from YouTube videos. Built with
 
 ## Screenshot
 
-The app window has a URL input field, a mode dropdown, and Generate / Save buttons above a scrollable text area.
+![YouTube Transcript Downloader](screenshot.png)
 
 ## Quick Start
 
